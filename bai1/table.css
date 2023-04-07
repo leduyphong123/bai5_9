@@ -1,0 +1,23 @@
+body{
+    width: 100vh;
+    margin: 0 auto;
+}
+td{
+    padding: 25px;
+    /* background-color: aqua; */
+    background-color: white;
+}
+
+.qblack {
+    background-color: black;
+}
+th{
+    background-color: yellow;
+    padding: 10px;
+}
+table{
+    border-spacing: 0;
+    padding: 10px;
+    background-color: yellow;
+    margin-top: 20px;
+}
